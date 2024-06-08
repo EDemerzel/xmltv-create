@@ -14,7 +14,7 @@ namespace TvTv2XmlTv
         {
             // Default values
             string timezone = "America/Chicago";
-            string lineUpID = "USA-OTA35213";
+            string lineUpID = "USA-OTA60611";
             int days = 8;
             string fileName = "xmltv.xml";
 
